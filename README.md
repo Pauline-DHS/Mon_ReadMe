@@ -10,11 +10,11 @@
 
 - 📫 Comment me contacter **pauline.dehors789@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/pauline-dehors-b3a53a222/](https://www.linkedin.com/in/pauline-dehors-b3a53a222/)
+- 📄 Mes expériences [https://www.linkedin.com/in/pauline-dehors-b3a53a222/](https://www.linkedin.com/in/pauline-dehors-b3a53a222/)
 
 - ⚡ Fun fact **J'adore résoudre des CTF !**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Mes outils :</h3>
 <p align="left">
 </p>
 
